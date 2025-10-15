@@ -97,3 +97,4 @@ Join the movement — let’s create technology that heals, not hijacks.
 Project Lead: mg567jkjjbear-byte
 If you wish to contribute, please open an issue or contact directly through GitHub.
 
+<img width="832" height="1248" alt="1760552090455" src="https://github.com/user-attachments/assets/f73307b3-f9b9-4430-9b18-1189fe09b38c" />
